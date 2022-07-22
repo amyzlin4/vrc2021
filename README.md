@@ -17,5 +17,5 @@ Programs:
 - competition_auto4_driver2: competition 15 sec auton for left side + win point, with driver 2 controller preferences
 - competition_auto5_driver1: competition 15 sec auton for left side 2 neutral goals, with driver 1 controller preferences
 - competition_auto5_driver2: competition 15 sec auton for left side 2 neutral goals, with driver 2 controller preferences
-- skills_driver: driver controlls for skills challenge
+- skills_driver: driver controls for skills challenge
 - skills_program: autonomous program for skills challenge 
