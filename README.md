@@ -1,5 +1,5 @@
 # VRC 2021-2022
-This repository contains my final programs for VEX Robotics Competition season 2021-2022, Tipping Point.  
+This repository contains my final programs for VEX Robotics Competition season 2021-2022, Tipping Point. During this season, I was the programmer for 87867D.
   
 ![2022_worlds](https://user-images.githubusercontent.com/108703064/180353417-f29fe6f9-3b8c-44fc-8d7f-09e1eeb57eda.jpeg)
 ![2022_robot](https://user-images.githubusercontent.com/108703064/180353891-3a893ef1-ca94-4db1-978f-8d6a66070042.jpeg)
